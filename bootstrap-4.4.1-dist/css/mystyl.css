@@ -1,3 +1,9 @@
+
+html{
+
+overflow: hidden;
+}
+
 .topbar{
     background-color: green;
   padding: 5px;
